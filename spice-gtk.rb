@@ -1,6 +1,6 @@
 class SpiceGtk < Formula
   homepage "http://www.spice-space.org/home.html"
-  url "http://www.spice-space.org/download/gtk/spice-gtk-0.28.tar.bz2"
+  url "http://pkgs.fedoraproject.org/repo/extras/mingw-spice-gtk/spice-gtk-0.28.tar.bz2/ad07d438ce6dfbb038aa8e28f5a2fb81/spice-gtk-0.28.tar.bz2"
   sha256 "15aeeb63422cb3bfaa2edbf4602ed2025baa4455abfd1677f631245a0d0f81c4"
 
   depends_on "gobject-introspection" => :build
